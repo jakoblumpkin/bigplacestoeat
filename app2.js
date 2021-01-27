@@ -1,0 +1,1 @@
+document.write('<p>Good Seafood</p>')
